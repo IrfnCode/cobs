@@ -1,0 +1,8 @@
+{
+  "name": "Cobs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "aaad847a"
+}
